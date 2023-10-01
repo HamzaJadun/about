@@ -2,7 +2,6 @@
 
 This repository contains a simple web app that showcases all your social media profiles, work samples, and website links. The app is built using HTML, CSS, and JavaScript, providing an easy way for visitors to access and explore your online presence.
 
-![App Screenshot](./Images/screenshot.png)
 
 ## Features
 
@@ -16,7 +15,7 @@ This repository contains a simple web app that showcases all your social media p
 
 ## Demo
 
-You can check out the live demo of the app [here](https://connect.abdulmateenzwl.com).
+You can check out the live demo of the app [here](https://hamzajadun.github.io/about/)).
 
 ## Usage
 
@@ -36,6 +35,8 @@ git clone https://github.com/abdulmateenzwl/connect-me.git
 5. You can also modify the styling in the `styles.css` file to match your personal preferences.
 
 6. Once you've made the desired changes, commit and push them to your GitHub repository.
+
+7. If you are interested in mods, such as the [Car Parking Multiplayer Mod APK](http://carparkapk.com/), allow me to create them for you. Please mention any specifics.
 
 ## Contributing
 
