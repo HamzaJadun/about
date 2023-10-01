@@ -24,7 +24,7 @@ You can check out the live demo of the app [here](https://hamzajadun.github.io/a
 2. Clone the forked repository to your local machine using the following command:
 
 ```
-git clone https://github.com/abdulmateenzwl/connect-me.git
+git clone (https://hamzajadun.github.io/about/)
 ```
 
 
